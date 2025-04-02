@@ -15,9 +15,9 @@
 
 <p align="center">
 
-    <img src="img/header.png" alt="header"">
-    <img src="img/body.png" alt="body"">
-    <img src="img/footer.png" alt="footer"">
+    <img src="./img/header.png" alt="header"">
+    <img src="./img/body.png" alt="body"">
+    <img src="./img/footer.png" alt="footer"">
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
