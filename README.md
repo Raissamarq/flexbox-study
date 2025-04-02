@@ -15,6 +15,8 @@
 
 <p align="center">
 
+![Captura de tela 2025-04-02 162504](https://github.com/user-attachments/assets/9bd7d7a4-73aa-42e3-8dec-9ed5c4b57410)
+
     <img src="./img/header.png" alt="header">
     <img src="./img/body.png" alt="body">
     <img src="./img/footer.png" alt="footer">
